@@ -1,9 +1,9 @@
-# **HackYeah 2024 Presentation: MindWell - Your Personal Mental Health Companion**
+# **HackYeah 2024 Presentation: Wellness Quest - Your Personal Mental Health Companion**
 
 ---
 
 ## **Slide 1: Title Slide**
-### **MindWell: Your Personal Mental Health Adventure!**
+### **Wellness Quest: Your Personal Mental Health Adventure!**
 - **Subtitle:** Choose Your Path to Well-Being
 - **Presented by:** [Your Team Name]
 - **Date:** HackYeah 2024
@@ -19,9 +19,9 @@
 
 ---
 
-## **Slide 3: Meet MindWell**
+## **Slide 3: Meet Wellness Quest**
 ### **Your Personal Mental Health Companion**
-- **What is MindWell?**
+- **What is Wellness Quest?**
   - A dynamic app designed to tailor activities that fit your mental health goals.
   - Think of it as your digital sidekick on a quest for well-being!
 
@@ -40,7 +40,7 @@
 ---
 
 ## **Slide 5: Epic Activities Await!**
-### **Engaging Features of MindWell**
+### **Engaging Features of Wellness Quest**
 - **Mind Exercises:** 
   - Daily brain teasers and puzzles to sharpen your focus!
 - **Meditation & Breathing:** 
@@ -80,19 +80,19 @@
 ---
 
 ## **Slide 9: The Prototype Experience**
-### **See MindWell in Action!**
+### **See Wellness Quest in Action!**
 - **Live Demo:**
   - [Show a quick demo of the app interface, highlighting key features.]
   
 - **User Testimonials:**
-  - "MindWell helped me find balance in my chaotic life!" - [Beta User]
+  - "Wellness Quest helped me find balance in my chaotic life!" - [Beta User]
 
 ---
 
 ## **Slide 10: Join Us on This Adventure!**
 ### **Call to Action**
 - **Be Part of the Change:**
-  - We invite you, the judges, to support MindWell in making mental health accessible and engaging for everyone!
+  - We invite you, the judges, to support Wellness Quest in making mental health accessible and engaging for everyone!
   
 - **Together, let’s turn the tide on mental health challenges!**
 
