@@ -32,7 +32,7 @@
 - **Goal Categories:**
   - **Calm the Mind:** Meditation, Breathing Exercises, Mindfulness.
   - **Boost Your Mood:** Fitness Programs, Fun Challenges, Burpees (yes, really!).
-  - **Stay Hydrated:** Water Tracking, Hydration Reminders, Fun Facts about H2O.
+  - **Stay Hydrated:** Water Tracking, Hydration Reminders.
   
 - **How It Works:**
   - Users select their goals and receive a customized plan filled with activities that blend fun and effectiveness.
